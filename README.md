@@ -75,6 +75,7 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 - [this is first link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)<sup>[1]</sup>
 - [this is second link](https://youtrack.jetbrains.com/issue/TW-63905/How-to-configure-agent-startup-timeout-period-in-cloud-profiles)<sup>[2]</sup>
 
+![photo of the pipe](assets/assets.png)
 ## Tables
 
 | test | test2 | Emoji |
